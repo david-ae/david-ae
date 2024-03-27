@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ae" alt="david-ae" /></a> </p>
 
-- 📝 I regularly write articles on [https://davidedet.com/](https://davidedet.com/)
+- 📝 Website [https://davidedet.com/](https://davidedet.com/)
 
 - 💬 Ask me about **Angular, C#, SQL, MongoDB, Design Patterns**
 
