@@ -5,7 +5,7 @@
 
 - 📝 Website [https://davidedet.com/](https://davidedet.com/)
 
-- 💬 Ask me about **Angular, C#, SQL, MongoDB, Design Patterns**
+- 💬 Ask me about **C#, JavaScript, Angular, SQL, MongoDB, Design Patterns, Domain Driven Design**
 
 - 📫 How to reach me **davidedet47@gmail.com**
 
