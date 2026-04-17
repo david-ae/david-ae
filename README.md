@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Edet</h1>
 <h3 align="center">A Software Engineer from Nigeria</h3>
 
-</a> </p>
+</a> 
 
 - 📝 Website [https://davidedet.com/](https://davidedet.com/)
 
