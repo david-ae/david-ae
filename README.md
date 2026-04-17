@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Edet</h1>
 <h3 align="center">A Software Engineer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-ae" alt="david-ae" /></a> </p>
+</a> </p>
 
 - 📝 Website [https://davidedet.com/](https://davidedet.com/)
 
 - 💬 Ask me about **C#, JavaScript, Angular, SQL, MongoDB, Design Patterns, Domain Driven Design**
 
 - 📫 How to reach me **davidedet47@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PaxJjfa24DYbcLOTfL6j4oKP0osRd_3w/view?usp=sharing](https://drive.google.com/file/d/1PaxJjfa24DYbcLOTfL6j4oKP0osRd_3w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
